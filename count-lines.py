@@ -1,4 +1,7 @@
-import sys 
+
+import sys
+
+""" Adding documentations locally""" 
 count = 0
 for line in sys.stdin:
     count += 1
